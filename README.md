@@ -10,11 +10,11 @@ Maximiliano Ramirez Casillas - A01642648
 Rafael Romo Muñoz - A01643137  
 Jared Andres Silva Villa - A01068244  
 
-Video: 
+ ## Video: 
 
 
 
-Overview:
+## Overview:
 
 -Elegimos un dataset de diferentes vinos
 
