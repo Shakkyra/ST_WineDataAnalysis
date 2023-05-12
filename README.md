@@ -4,9 +4,11 @@ Semana Tec:
 
 Integrantes:
 
-Fernando Menchaca Villanueva - A01643243
+Fernando Menchaca Villanueva - A01643243  
+Maximiliano Ramirez Casillas - A01642648  
+Rafael Romo Muñoz - A01643137  
+Jared Andres Silva Villa - A01068244  
 
-Maximiliano Ramirez Casillas - A01642648
 Video:
 
 
