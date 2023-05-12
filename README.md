@@ -3,11 +3,13 @@
 Semana Tec:
 Integrantes:
 Fernando Menchaca Villanueva - A01643243
+
 Maximiliano Ramirez Casillas - A01642648
 Video:
 
 
 Overview:
+
 -Elegimos un dataset de diferentes vinos
 
 -Estos vinos fueron cultivados en la misma region de Italia pero por diferentes personas
